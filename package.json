@@ -1,10 +1,10 @@
 {
-  "name": "caddy",
+  "name": "@vanajmoorthy/caddy",
   "version": "1.0.0",
   "description": "Automated Git init",
   "main": "index.js",
   "bin": {
-    "caddy": "./index.js"
+    "caddy": "index.js"
   },
   "scripts": {},
   "keywords": [
@@ -27,5 +27,14 @@
     "minimist": "^1.2.5",
     "simple-git": "^1.129.0",
     "touch": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanajmoorthy/caddy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanajmoorthy/caddy/issues"
+  },
+  "homepage": "https://github.com/vanajmoorthy/caddy#readme"
 }
