@@ -38,7 +38,13 @@ Install Caddy via npm using the command
 
 Caddy is super simple to run. Just type in Caddy in your terminal, provide your GitHub credentials, and let Caddy do the rest!
 
-**TODO: ADD SCREENSHOTS**
+![caddy login page](screenshots/caddylogin.png)
+
+Then you just input the your repo name and description.
+
+![caddy name](screenshots/name.png)
+
+_PS: Caddy even generates a custom .gitignore for you witht the files of your choice!_
 
 ### About the name
 
