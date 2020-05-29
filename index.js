@@ -13,7 +13,7 @@ clear();
 console.log(
 	chalk.cyan(
 		figlet.textSync("caddy", {
-			font: "chunky",
+			font: "Chunky",
 		})
 	)
 );
