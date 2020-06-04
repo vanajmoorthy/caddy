@@ -1,6 +1,6 @@
 const CLI = require("clui");
 const Configstore = require("configstore");
-const Octokit = require("@octokit/rest");
+const { Octokit } = require("@octokit/rest");
 const Spinner = CLI.Spinner;
 const { createBasicAuth } = require("@octokit/auth-basic");
 
