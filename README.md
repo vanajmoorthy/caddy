@@ -28,6 +28,8 @@ Without Caddy, initialising a repository takes at least X steps
 Sounds tedious, doesn't it?
 Well with Caddy all of that can be reduces to one friendly command.
 
+(Caddy can also be found on [npm](https://www.npmjs.com/package/@vanajmoorthy/caddy))
+
 ### Installation
 
 Install Caddy via npm using the command
