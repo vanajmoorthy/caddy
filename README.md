@@ -46,7 +46,7 @@ Then you just input the your repo name and description.
 
 ![caddy name](screenshots/name.png)
 
-_PS: Caddy even generates a custom .gitignore for you witht the files of your choice!_
+_PS: Caddy even generates a custom .gitignore for you with the files of your choice!_
 
 ### About the name
 
