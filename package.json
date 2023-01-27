@@ -25,7 +25,7 @@
     "inquirer": "^7.0.3",
     "lodash": "^4.17.15",
     "minimist": "^1.2.5",
-    "simple-git": "^1.129.0",
+    "simple-git": "^3.16.0",
     "touch": "^3.1.0"
   },
   "devDependencies": {},
